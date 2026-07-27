@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 AI Portfolio Website</h4>
+      <h4>🌐 Portfolio Website</h4>
       <p>A modern, multilingual developer portfolio built with smooth animations and clean UI.</p>
       <p><b>Tech Stack:</b> Next.js, TypeScript, Tailwind CSS, React</p>
     </td>
@@ -120,14 +120,14 @@
       <ul>
         <li>🥇 <b>Ideathon Winner</b></li>
         <li>🏁 National Level Hackathon Participant</li>
-        <li>💼 Frontend Developer Intern @ CodeAlpha</li>
+        <li>💼 Frontend Developer Intern @ NextUp Robotics</li>
         <li>🔥 Active LeetCode Problem Solver</li>
         <li>📜 Python Programming with IoT Certification</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Fun Facts & Quote</h3>
-      <blockquote><i>"First, solve the problem. Then, write the code."</i> — John Johnson</blockquote>
+      <blockquote><i>"First, solve the problem. Then, write the code."</i> — "Devang Kumar"</blockquote>
       <ul>
         <li>🤖 Robotics fascinates me as much as AI</li>
         <li>🎮 Occasionally play games to relax</li>
