@@ -127,7 +127,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Fun Facts & Quote</h3>
-      <blockquote><i>"First, solve the problem. Then, write the code."</i> — "Devang Kumar"</blockquote>
+      <blockquote><i>"First, solve the problem. Then, write the code."</i> — Devang Kumar</blockquote>
       <ul>
         <li>🤖 Robotics fascinates me as much as AI</li>
         <li>🎮 Occasionally play games to relax</li>
@@ -151,5 +151,7 @@
 
 <p align="center">
   <b>⭐ Thanks for visiting! Happy Coding! 🚀</b><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer"/>
+  <span style="pointer-events: none;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" style="pointer-events: none;" />
+  </span>
 </p>
