@@ -1,22 +1,165 @@
 <h1 align="center">Hi 👋, I'm Devang Kumar</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">AI & Full Stack Developer | B.Tech AI & ML Student | ROS 2 Enthusiast</h3>
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **devangkumar012@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devang-kumar-22bb9632b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devang-kumar-22bb9632b" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devang-kumar-012&label=Profile%20Views&color=0e75b6&style=flat" alt="devang-kumar-012" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devang-kumar-012&show_icons=true&locale=en&layout=compact" alt="devang-kumar-012" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devang-kumar-012&show_icons=true&locale=en" alt="devang-kumar-012" /></p>
+- 🎓 B.Tech in **Artificial Intelligence & Machine Learning**
+- 💻 Passionate about **Full Stack Development, AI, and Robotics**
+- 🌱 Currently learning **Advanced Next.js, ROS 2, AI Integration & System Design**
+- 🔭 Currently building **modern AI-powered web applications**
+- 🤖 Exploring **ROS 2, Gazebo, RViz and Robotics Development**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Python, Java, ROS 2**
+- ⚡ Fun fact: I enjoy building projects that combine **AI + Software + Robotics**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devang-kumar-012&" alt="devang-kumar-012" /></p>
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/devang-kumar-22bb9632b" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:devangkumar012@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### AI & Robotics
+
+<p>
+<img src="https://skillicons.dev/icons?i=ros" />
+</p>
+
+**Also familiar with**
+
+- ROS 2
+- Gazebo
+- RViz
+- Xacro
+- URDF
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 AI Portfolio Website
+A modern multilingual portfolio built using **Next.js**, **TypeScript**, **Tailwind CSS**, and advanced animations.
+
+---
+
+### 🧠 MoodMate
+AI-powered mood tracking and journaling application.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- AI APIs
+
+---
+
+### 🐶 Street Dog Health Twin (SDHT)
+
+An AI-based healthcare monitoring solution for street dogs with RFID-based identification and NGO notification system.
+
+---
+
+### 🤖 ROS 2 Mobile Robot
+
+Built a complete robot description using
+
+- URDF
+- Xacro
+- Gazebo
+- RViz
+- ROS 2 Launch Files
+- Custom Interfaces
+- Publishers
+- Subscribers
+- Services
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devang-kumar-012&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-kumar-012&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devang-kumar-012&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=devang-kumar-012&theme=tokyonight&margin-w=10&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-kumar-012&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **Email:** devangkumar012@gmail.com
+
+💼 **LinkedIn:**  
+https://linkedin.com/in/devang-kumar-22bb9632b
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
