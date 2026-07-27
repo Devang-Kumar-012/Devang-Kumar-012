@@ -151,9 +151,8 @@
 
 <p align="center">
   <b>⭐ Thanks for visiting! Happy Coding! 🚀</b><br/>
-  <details open>
-    <summary style="list-style: none;">
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" />
-    </summary>
-  </details>
+  <span style="display: inline-grid; position: relative;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=100&section=footer" style="grid-area: 1/1;" />
+    <span style="grid-area: 1/1; position: absolute; inset: 0; z-index: 10;"></span>
+  </span>
 </p>
