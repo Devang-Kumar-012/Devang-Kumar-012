@@ -120,7 +120,7 @@
       <ul>
         <li>🥇 <b>Ideathon Winner</b></li>
         <li>🏁 National Level Hackathon Participant</li>
-        <li>💼 Frontend Developer Intern @ CodeAlpha</li>
+        <li>💼 Frontend Developer Intern @ Nextup Robotics</li>
         <li>🔥 Active LeetCode Problem Solver</li>
         <li>📜 Python Programming with IoT Certification</li>
       </ul>
