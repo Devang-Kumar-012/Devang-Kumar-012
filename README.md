@@ -1,28 +1,28 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0369a1,100:0c4a6e&height=140&section=header&text=Devang%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Robotics&descAlignY=52&descSize=15" width="100%"/>
+  ### Hi, I'm **Devang Kumar** 👋
 
-  <br/>
+  <h3>Full Stack Developer | AI & Robotics Enthusiast</h3>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+end-to-end+intelligent+products;Full+Stack+%2B+AI+%2B+ROS+2;Open+to+SDE+%26+Full+Stack+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+end-to-end+intelligent+products;Full+Stack+%2B+AI+%2B+ROS+2;Open+to+SDE+%26+Full+Stack+roles" alt="Typing SVG" />
 
   <br/><br/>
 
   <a href="https://github.com/devang-kumar-012">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/devang-kumar-22bb9632b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:devangkumar012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
 
-<br/>
+---
 
 ### 👨‍💻 About Me
 
@@ -155,9 +155,5 @@ I'm currently looking for **SDE / Full Stack Developer** opportunities.
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devang-kumar-22bb9632b)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangkumar012@gmail.com)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:0369a1,100:0c4a6e&height=90&section=footer" width="100%"/>
 
 </div>
