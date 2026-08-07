@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **B.Tech Artificial Intelligence & Machine Learning** student with a strong passion for **Full Stack Development**, **Artificial Intelligence**, and **Robotics**. I enjoy building responsive web applications, developing scalable backend systems, and integrating AI to create meaningful real-world solutions.
 
@@ -15,15 +15,15 @@ Alongside software development, I actively explore **ROS 2**, autonomous robotic
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,mysql" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
@@ -34,19 +34,19 @@ Alongside software development, I actively explore **ROS 2**, autonomous robotic
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🚀 DevOps & Tools
+### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,eclipse,vercel" />
 </p>
 
-### 🤖 AI, Robotics & Other Technologies
+### AI, Robotics & Other Technologies
 
 <p>
 
@@ -65,9 +65,9 @@ Alongside software development, I actively explore **ROS 2**, autonomous robotic
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 AI Portfolio Website
+### Portfolio Website
 
 A modern multilingual portfolio built to showcase projects, skills, certifications, and achievements with smooth animations, responsive design, and an intuitive user experience.
 
@@ -77,7 +77,7 @@ A modern multilingual portfolio built to showcase projects, skills, certificatio
 
 ---
 
-### 🧠 MoodMate
+###  MoodMate
 
 An AI-powered mental wellness platform that enables mood tracking, journaling, emotional analysis, and personalized insights through an interactive dashboard.
 
@@ -87,7 +87,7 @@ An AI-powered mental wellness platform that enables mood tracking, journaling, e
 
 ---
 
-### 🐶 Street Dog Health Twin
+### Street Dog Health Twin
 
 An AI-based healthcare monitoring solution for street dogs using RFID-based identification, intelligent health tracking, and automated NGO notifications for faster rescue and treatment.
 
@@ -97,7 +97,7 @@ An AI-based healthcare monitoring solution for street dogs using RFID-based iden
 
 ---
 
-### 🤖 ROS 2 Mobile Robot
+### ROS 2 Mobile Robot
 
 A robotics simulation project covering publishers, subscribers, services, launch files, URDF modeling, Gazebo simulation, and RViz visualization using ROS 2.
 
@@ -107,7 +107,7 @@ A robotics simulation project covering publishers, subscribers, services, launch
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Frontend Developer Intern
 
@@ -121,15 +121,15 @@ A robotics simulation project covering publishers, subscribers, services, launch
 
 ## 🏆 Achievements
 
-- 🥇 Winner — College Ideathon
-- 🏅 National-Level Hackathon Participant
-- 📜 Python Programming with IoT Certification
-- 💻 Active LeetCode Problem Solver
-- 👨‍🏫 Class Representative (B.Tech AI & ML)
+- Winner — College Ideathon
+- National-Level Hackathon Participant
+- Python Programming with IoT Certification
+- Active LeetCode Problem Solver
+- Class Representative (B.Tech AI & ML)
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Full Stack Development
 - System Design
@@ -140,7 +140,7 @@ A robotics simulation project covering publishers, subscribers, services, launch
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
@@ -158,7 +158,7 @@ A robotics simulation project covering publishers, subscribers, services, launch
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm currently open to **Software Development Engineer (SDE)** and **Full Stack Developer** opportunities, internships, collaborations, and open-source contributions.
 
