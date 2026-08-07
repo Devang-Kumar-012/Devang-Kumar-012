@@ -1,159 +1,181 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Devang Kumar</h1>
+<h3 align="center">Full Stack Developer • AI & ML Student • ROS 2 Robotics Enthusiast</h3>
 
-  ### Hi, I'm **Devang Kumar** 👋
-
-  <h3>Full Stack Developer | AI & Robotics Enthusiast</h3>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Building+end-to-end+intelligent+products;Full+Stack+%2B+AI+%2B+ROS+2;Open+to+SDE+%26+Full+Stack+roles" alt="Typing SVG" />
-
-  <br/><br/>
-
-  <a href="https://github.com/devang-kumar-012">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/devang-kumar-22bb9632b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:devangkumar012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</div>
+<p align="center">
+  Passionate about building modern web applications, intelligent AI-powered solutions, and robotics projects with clean, scalable code.
+</p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Machine Learning** student who builds real products.  
-I specialize in **Full Stack Development** and love integrating AI into applications that actually solve problems. I also explore robotics deeply using **ROS 2**.
+I'm a **B.Tech Artificial Intelligence & Machine Learning** student with a strong passion for **Full Stack Development**, **Artificial Intelligence**, and **Robotics**. I enjoy building responsive web applications, developing scalable backend systems, and integrating AI to create meaningful real-world solutions.
 
-Currently focused on writing clean, scalable code and preparing for **SDE / Full Stack** roles.
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![C](https://skillicons.dev/icons?i=c&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-
-**Frontend**  
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![ShadCN](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-**Backend & Database**  
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**DevOps & Tools**  
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
-![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**AI, Robotics & Others**  
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge)
-![ML](https://img.shields.io/badge/Machine_Learning-10B981?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-F59E0B?style=for-the-badge)
-![DSA](https://img.shields.io/badge/DSA-EF4444?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-6366F1?style=for-the-badge)
+Alongside software development, I actively explore **ROS 2**, autonomous robotics, and modern software engineering practices. I continuously sharpen my problem-solving skills through personal projects, hackathons, and competitive programming while preparing for **Software Development Engineer (SDE)** and **Full Stack Developer** roles.
 
 ---
 
-### 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 💻 Languages
 
-#### 🌐 AI Portfolio Website
-Modern multilingual developer portfolio with smooth animations and clean UI.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,mysql" />
+</p>
 
-`Next.js` `TypeScript` `Tailwind` `Framer Motion`
+### 🎨 Frontend
 
-</td>
-<td width="50%" valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-#### 🧠 MoodMate
-AI-powered mood tracking and journaling platform with emotional analysis dashboard.
+<p>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
 
-`Next.js` `AI` `ShadCN UI` `Responsive`
+### ⚙️ Backend & Database
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-#### 🐶 Street Dog Health Twin
-AI healthcare monitoring system for street dogs using RFID + real-time NGO alerts.
+### 🚀 DevOps & Tools
 
-`AI` `RFID` `Cloud` `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,eclipse,vercel" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+### 🤖 AI, Robotics & Other Technologies
 
-#### 🤖 ROS 2 Mobile Robot
-Complete robot simulation covering core robotics concepts (Pub/Sub, Services, URDF, Gazebo).
+<p>
 
-`ROS 2` `Gazebo` `RViz` `Ubuntu`
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/Gazebo-3C3C3C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RViz-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/URDF-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xacro-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-10A37F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cybersecurity-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge" />
 
-</td>
-</tr>
-</table>
-
----
-
-### 💼 Experience & Achievements
-
-- **Frontend Developer Intern** @ Nextup Robotics
-- **Ideathon Winner**
-- National Level Hackathon Participant
-- Python Programming with IoT Certification
-- Active problem solver on LeetCode
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=devang-kumar-012&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=devang-kumar-012&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
+### 🌐 AI Portfolio Website
 
-<br/>
+A modern multilingual portfolio built to showcase projects, skills, certifications, and achievements with smooth animations, responsive design, and an intuitive user experience.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devang-kumar-012&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</div>
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
 
 ---
 
-<div align="center">
+### 🧠 MoodMate
 
-### Let's Build Something Great
+An AI-powered mental wellness platform that enables mood tracking, journaling, emotional analysis, and personalized insights through an interactive dashboard.
 
-I'm currently looking for **SDE / Full Stack Developer** opportunities.
+**Tech Stack**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devang-kumar-22bb9632b)
-&nbsp;
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devangkumar012@gmail.com)
+`Next.js` `Node.js` `MongoDB` `Artificial Intelligence`
 
-</div>
+---
+
+### 🐶 Street Dog Health Twin
+
+An AI-based healthcare monitoring solution for street dogs using RFID-based identification, intelligent health tracking, and automated NGO notifications for faster rescue and treatment.
+
+**Tech Stack**
+
+`Artificial Intelligence` `RFID` `MongoDB` `Cloud Computing`
+
+---
+
+### 🤖 ROS 2 Mobile Robot
+
+A robotics simulation project covering publishers, subscribers, services, launch files, URDF modeling, Gazebo simulation, and RViz visualization using ROS 2.
+
+**Tech Stack**
+
+`ROS 2` `Gazebo` `RViz` `URDF`
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern
+
+**Nextup Robotics**
+
+- Developed responsive user interfaces using modern frontend technologies.
+- Built reusable UI components and improved application responsiveness.
+- Followed clean coding practices and collaborated on production-ready features.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner — College Ideathon
+- 🏅 National-Level Hackathon Participant
+- 📜 Python Programming with IoT Certification
+- 💻 Active LeetCode Problem Solver
+- 👨‍🏫 Class Representative (B.Tech AI & ML)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Full Stack Development
+- System Design
+- Backend Architecture
+- DevOps & Docker
+- AI Integration
+- Robotics with ROS 2
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Devang-Kumar-012&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devang-Kumar-012&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devang-Kumar-012&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm currently open to **Software Development Engineer (SDE)** and **Full Stack Developer** opportunities, internships, collaborations, and open-source contributions.
+
+If you're building something exciting or looking for a passionate developer, I'd love to connect and create something impactful together.
+
+<p align="center">
+
+<a href="https://github.com/Devang-Kumar-012">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
